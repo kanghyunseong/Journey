@@ -110,12 +110,6 @@ npm run start:dev
 
 ---
 
-## 📄 라이선스
-
-MIT License
-
----
-
 ## 🧠 Why react-query / Zustand?
 
 ### react-query 선택 이유
